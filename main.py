@@ -4,6 +4,10 @@ from ray_casting import ray_casting_walls
 from drawing import Drawing
 from interaction import Interaction
 
+
+'''
+    这是我的注释测试
+'''
 pygame.init()
 sc = pygame.display.set_mode((WIDTH, HEIGHT), pygame.DOUBLEBUF)
 clock = pygame.time.Clock()
